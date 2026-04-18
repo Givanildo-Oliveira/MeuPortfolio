@@ -35,8 +35,8 @@ btnTema.addEventListener('click', alternarTema);
 
 const meusProjetos = [
     {
-        titulo: "Projeto 01 - E-commerce",
-        descricao: "Uma loja virtual feita com HTML, CSS e JavaScript.",
+        titulo: "Projeto 01 -Biblioteca Virtual",
+        descricao: "Uma biblioteca virtual com milares de livros gratuitos on-line",
         link: "https://github.com/Givanildo-Oliveira/MeuPortfolio"
     },
     {
